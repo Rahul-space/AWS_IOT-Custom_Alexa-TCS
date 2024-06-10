@@ -3,7 +3,7 @@ _Below video explains our project working procedure and code explanation ._
 
 **Main file is ac_command.py**
 
-    -convert speech to text
+    - Convert speech to text
     - Detect the operations in the sentence
     - Publish the operations as messages in the subscribed topic
 [![Project Demo](https://img.youtube.com/vi/kcUAadzDU4Q/0.jpg)](https://www.youtube.com/watch?v=kcUAadzDU4Q)
