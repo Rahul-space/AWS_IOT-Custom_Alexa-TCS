@@ -1,6 +1,7 @@
 ## Project demo and Explanation
 _Below video explains our project working procedure and code explanation ._ 
-*Main file is ac_command.py
+
+**Main file is ac_command.py**
 
     -convert speech to text
     - Detect the operations in the sentence
