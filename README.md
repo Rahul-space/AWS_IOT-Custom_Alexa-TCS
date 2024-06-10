@@ -1,11 +1,11 @@
 ## Project demo and Explanation
-_Below video explains our project working procedure and code explanation ._ 
 
-**Main file is ac_command.py**
+_**Main file is ac_command.py**_
 
-    - Convert speech to text
-    - Detect the operations in the sentence
-    - Publish the operations as messages in the subscribed topic
+     Convert speech to text
+     Detect the operations in the sentence
+     Publish the operations as messages in the subscribed topic  
+     Video Demo 👇
 [![Project Demo](https://img.youtube.com/vi/kcUAadzDU4Q/0.jpg)](https://www.youtube.com/watch?v=kcUAadzDU4Q)
 
 ## Working Theory
